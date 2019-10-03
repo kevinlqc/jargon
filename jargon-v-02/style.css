@@ -1,0 +1,21 @@
+/*
+Theme Name: Jargon: 2
+Theme URI: https://kevinlqc.com/dmit2032
+Author: Kevin Li
+Author URI: https://kevinlqc.com
+
+Description: How to add styles to wordPress, front page template
+
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: jargon
+Tags: some, thing, to, say
+
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+body {
+    background-color: aquamarine;
+}
