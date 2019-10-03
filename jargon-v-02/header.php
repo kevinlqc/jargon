@@ -14,10 +14,16 @@
 
 <body>
 
-    <nav>
-        <h2>Navigation Content</h2>
+    <nav class="site-nav">
+        <ul class="list-view">
+            <li>Brand Logo</li>
+            <li>Site Name</li>
+            <li>Menu Icon</li>
+        </ul>
     </nav>
 
-    <header>
-        <h2>Header Content</h2>
+    <header class="main-page-header">
+        <h2>Jargon</h2>
+        <p>tagline</p>
     </header>
+

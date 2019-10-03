@@ -17,5 +17,26 @@ Use it to make something cool, have fun, and share what you've learned with othe
 */
 
 body {
-    background-color: aquamarine;
+    background-color: pink;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.site-nav {
+    box-shadow: 0 0 5px 0 grey;
+    padding: 2rem 0;
+}
+
+.list-view {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.main-page-header {
+    padding: 10rem 0;
+    text-align: center;
+    background: linear-gradient(to bottom, rgb(39, 235, 218), rgb(218, 156, 156));
 }
