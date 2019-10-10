@@ -1,0 +1,34 @@
+/*
+Theme Name: Jargon: 3 
+Theme URI:  
+Author: James Foley
+Author URI: https://www.dominait.me
+Description:   Handling Image assets in WordPress
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI:  
+Text Domain: jargon
+Tags: Setting Up WordPress
+*/
+
+body {
+    background: tomato;
+}
+
+
+/* 
+---------------------------------------------------------------------------------------
+MAIN SITE NAVIGATION
+-------------------------------------------------------------------------------------
+*/
+
+.site-nav {
+    box-shadow: 0 0 5px 0 grey;
+    padding: .5rem 1rem;
+}
+
+.icon-view {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
